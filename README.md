@@ -1,2 +1,2 @@
 # SampleApp_Linux
-deploy with codepipeline
+deploy with codepipeline Aurelie
